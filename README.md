@@ -1,8 +1,8 @@
 # workplace-communication-activity
 #📘 Pseudo Code: Programming Firm Communication Using Operational Terms
+#"The term 'patch' means a small software update to fix an issue."
 
 # identify and fix the original operational term for each scrambled word
-
 BEGIN
     FUNCTION MorningSyncMeeting()
         
@@ -24,6 +24,9 @@ BEGIN
         PRINT "Developer B: That panel is a CYELGA module. We should plan to retire it soon."
 
         PRINT "Team Lead: Excellent updates. Continue monitoring and GNPI me for urgent issues."
+        
+        PRINT  "Added definition for 'patch' in README"
+        
     END FUNCTION
 
     CALL MorningSyncMeeting()
